@@ -17,6 +17,8 @@ Please use the template below:
 ````text
 Site Name: (e.g., YouTube.com)
 
+Supported URLs: (e.g., https://www.youtube.com/, https://www.youtube.com/watch?v=*)
+
 Serial Code:
 ```text
 (Paste your VT-RULE-xxxx serial code here)
