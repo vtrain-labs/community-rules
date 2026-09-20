@@ -21,7 +21,7 @@ If you see someone asking for help and you know how to use V-Train's "Visual Cap
 ## 🛡️ Security and Review Process
 Please rest assured, this GitHub repository is just a "wishlist" and "code exchange forum."
 The `SYNC-Z` codes shared by users **do not** have any direct impact on global users.
-Administrators will check the forum daily. They will test the shared codes, convert the valid ones into a secure encrypted format, and write them into the protected `rules.json` file.
+Administrators will review the forum periodically. They will test the shared codes, convert the valid ones into a secure encrypted format, and write them into the protected `rules.json` file.
 **Only after the administrators update `rules.json` will users worldwide automatically receive the update within 24 hours.** It is absolutely safe and updates seamlessly!
 
 ---
