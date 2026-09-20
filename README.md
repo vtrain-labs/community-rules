@@ -1,34 +1,46 @@
-# VT (V-Train) Extension Community Rules
+# 🌐 V-Train Community Rules (雲端規則庫)
 
-Welcome to the official community hub for **VT (V-Train)** tracking rules!
+Welcome to the official community-driven rule database for the **V-Train Extension**. 
+This repository hosts the auto-syncing configuration rules that allow V-Train to adapt to various video platforms worldwide seamlessly.
 
-**VT (V-Train)** is a powerful video adaptive engine designed to seamlessly remind you which videos you've already watched. Through manual rule configuration using "Visual Capture Mode," it is compatible with the vast majority of Video On Demand (VOD) platforms featuring thumbnail lists. Furthermore, VT supports **customizable progress bar colors**, allowing your monitoring interface to be more personalized and easily distinguishable.
+## 🚀 How it Works (運作方式)
 
-### 💡 Looking for Unofficial or Specific Site Adapters?
-To maintain a clean and lightweight official repository, VT Labs only hosts rules for general, mainstream VOD platforms (e.g., YouTube, Bilibili) here. 
+Starting from V-Train v1.0.8, the extension automatically syncs with this repository in the background. 
+If a site is supported in `rules.json`, you **do not need to train it manually**. Just click **"Authorize & Enable"** on the site, and V-Train will automatically start tracking!
 
-However, VT's architecture is completely open. If you are looking for rules for specific niches, regional forums, or other third-party video sites, the open-source community might have already built them! 
-**Try searching keywords like `VTrain unofficial rules` or `VTrain community adapters` on GitHub or search engines.**
+*(Note: Sensitive domains are stored as Base64 encoded strings to protect user privacy and comply with store policies.)*
+
+## 🤝 How to Contribute (如何貢獻規則)
+
+If you've encountered a site that V-Train doesn't support natively, you can train it yourself using the Visual Capture Tool. Once successful, you can share it with the world!
+
+1. Open your V-Train Dashboard and go to **Rule Management (規則管理)**.
+2. Find the rule you just trained, and click the orange **📋 Share (序號複製)** button.
+3. Go to the [Issues](../../issues) tab of this repository.
+4. Click **New Issue**, select the Rule Submission template, and paste your `SYNC-Z...` code.
+
+Our maintainers will review your code, convert the domain to Base64 (if necessary), and merge it into `rules.json`. Within 24 hours, all V-Train users globally will receive your update!
 
 ---
 
-## 📥 How to use
-1. Browse [Issues](https://github.com/ivr-labs/community-rules/issues) or folders to find adaptive rules for your favorite websites.
-2. Copy the serial code in **VT-RULE-xxxx** format.
-3. Open VT Extension > Rule Management > **Serial Import**.
-4. Paste and Save!
+### For Maintainers (維護者指南)
 
----
+When adding a new rule to `rules.json`, follow this format:
 
-## 📤 How to contribute
-If you have configured a new rule for a **general, mainstream website**, feel free to share it by opening a **New Issue**! 
-Please use the template below:
+```json
+{
+  "BASE64_ENCODED_DOMAIN": [
+    {
+      "hosts": ["BASE64_ENCODED_DOMAIN"],
+      "pRule": { ... },
+      "s": "div.video-wrapper",
+      "tRule": { ... },
+      "imgSelector": "video" 
+    },
+    null, null, null
+  ]
+}
+```
 
-````text
-Site Name: (e.g., YouTube.com)
-
-Supported URLs: (e.g., [https://www.youtube.com/](https://www.youtube.com/), [https://www.youtube.com/watch?v=](https://www.youtube.com/watch?v=)*)
-
-Serial Code:
-```text
-(Paste your VT-RULE-xxxx serial code here)
+* **Base64 Encoding**: All adult or sensitive domains MUST be Base64 encoded (both the object key and inside the `hosts` array) to bypass automated text scanners.
+* **imgSelector**: Optional. Used to specify the CSS selector for extracting high-quality thumbnails when bookmarking (e.g., `"video"` grabs the video tag's `poster` attribute).
