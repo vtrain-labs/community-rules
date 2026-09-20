@@ -1,0 +1,12 @@
+{
+  "bWlzc2F2LmFp": [
+    {
+      "hosts": ["bWlzc2F2LmFp"],
+      "pRule": { "guard": { "isPositional": true, "segCount": 1 }, "idx": -1, "type": "p" },
+      "s": "div.aspect-w-16.aspect-h-9 > a",
+      "tRule": { "guard": { "isPositional": true, "segCount": 1 }, "idx": -1, "targetAttr": "href", "type": "p", "upLevel": 0 },
+      "imgSelector": "video"
+    },
+    null, null, null
+  ]
+}
