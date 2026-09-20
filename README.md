@@ -1,28 +1,28 @@
-# 🌐 V-Train 雲端規則庫 (Community Rules)
+# 🌐 V-Train Community Rules (Cloud Database)
 
-歡迎來到 **V-Train 擴充功能** 的官方社群規則庫！
-這裡聚集了全世界老司機們互相分享的網站訓練規則。透過這個雲端庫，V-Train 可以自動適應全球各大影音網站。
+Welcome to the official community rule repository for the **V-Train Extension**!
+This is a central hub where users around the world share their custom tracking rules. Thanks to this cloud database, V-Train can automatically adapt to various video websites globally.
 
-## 💡 對於「普通用戶」：你只需要放輕鬆
-只要某個網站已經被加入這個規則庫，你進入該網站時，V-Train 就會自動載入規則。
-你**不需要手動輸入任何代碼**，只要點擊面板上的「授權並啟用」，進度條就會奇蹟般地出現！
+## 💡 For Regular Users: Just Relax
+If a website is already added to this database, V-Train will automatically load the rules when you visit that site.
+You **do not need to manually enter any code**. Just click the **"Authorize & Enable"** button on the V-Train panel, and the progress bar will magically appear!
 
-如果遇到 V-Train 無法支援的網站：
-👉 **[點我發文求救 (Request a Site)](https://github.com/vtrain-labs/community-rules/issues/new/choose)**
-發文後，社群裡的各路大神就會來幫你寫規則！
+If you find a website that V-Train doesn't support yet:
+👉 **[Click here to Request a Site](https://github.com/vtrain-labs/community-rules/issues/new/choose)**
+After you post, experienced power users in the community will help create the rule for you!
 
-## 🚀 對於「老司機」：如何幫助別人？
-如果你看到有人求救，而你剛好會用 V-Train 的「自行訓練」功能（右鍵框選），你可以這樣做：
-1. 去那個網站完成訓練。
-2. 打開 V-Train 的規則管理面板，點擊橘色的 **📋 序號複製 (Share)**。
-3. 回到大神的求救貼文底下，把那串 `SYNC-Z...` 開頭的代碼回覆給他。
-4. 或者，👉 **[點我主動分享新規則 (Share a Rule)](https://github.com/vtrain-labs/community-rules/issues/new/choose)** 造福全人類。
+## 🚀 For Power Users: How to Help Others?
+If you see someone asking for help and you know how to use V-Train's "Visual Capture Mode" (Right-click training), you can do the following:
+1. Go to the requested website and successfully train the rule yourself.
+2. Open the V-Train rule management panel and click the orange **📋 Share (Serial Copy)** button.
+3. Go to the user's help request post and reply with your `SYNC-Z...` code.
+4. Or, 👉 **[Click here to Share a New Rule](https://github.com/vtrain-labs/community-rules/issues/new/choose)** to proactively share a rule you made.
 
-## 🛡️ 安全與審核機制
-請放心，GitHub 這裡只是一個「許願池」跟「代碼交流區」。
-大家分享的 `SYNC-Z` 代碼**沒有任何權限**直接影響全球用戶。
-管理員 (Admin) 會每天巡視論壇，把大家測試成功的好用代碼，加密轉換後寫入受保護的 `rules.json`。
-**只有管理員更新了 `rules.json`，全世界的用戶才會在 24 小時內自動獲得升級。** 絕對安全，無痛更新！
+## 🛡️ Security and Review Process
+Please rest assured, this GitHub repository is just a "wishlist" and "code exchange forum."
+The `SYNC-Z` codes shared by users **do not** have any direct impact on global users.
+Administrators will check the forum daily. They will test the shared codes, convert the valid ones into a secure encrypted format, and write them into the protected `rules.json` file.
+**Only after the administrators update `rules.json` will users worldwide automatically receive the update within 24 hours.** It is absolutely safe and updates seamlessly!
 
 ---
 *(For Admins: `rules.json` update protocols and Base64 encryption standards are maintained internally.)*

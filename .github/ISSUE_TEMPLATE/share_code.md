@@ -1,23 +1,23 @@
 ---
-name: "🚀 我練好規則了 (Share a SYNC Code)"
-about: "如果你成功訓練了一個新網站，請在這裡分享代碼造福大家！"
-title: "[分享] 網站名稱：(填入網站名稱)"
+name: "🚀 Share a SYNC Code"
+about: "If you successfully trained a new website, share the code here to help everyone!"
+title: "[Share] Website Name: (Website Name)"
 labels: "rule-submission"
 assignees: ""
 ---
 
-### 🌐 網站網址 (Website URL)
-*(為防機器人審查，請把字母打星號，例如 p**nhub.com)*
+### 🌐 Website URL
+*(To avoid automated bot blocks, please replace some letters with asterisks, for example: p**nhub.com)*
 > 
 
-### 📋 規則分享碼 (SYNC Code)
-*(請將 V-Train 面板中複製出來的 `SYNC-Z...` 代碼貼在下方)*
+### 📋 Rule Share Code (SYNC Code)
+*(Please paste the `SYNC-Z...` code copied from your V-Train panel below)*
 > 
 
-### 🖼️ 影片封面截圖 CSS (選填)
-*(如果你知道影片預覽圖的 CSS Selector，可以寫在這裡，例如 `video`，不知道請留空)*
+### 🖼️ Video Cover Image CSS (Optional)
+*(If you know the CSS Selector for the video thumbnail image, you can write it here, for example: `video`. If you don't know, leave this blank)*
 > 
 
 ---
-**給維護者的提示：**
-管理員確認代碼有效後，會將其轉換並寫入全球雲端庫，讓所有用戶受惠！
+**Tip for Administrators:**
+After confirming this code works, administrators will convert it and write it into the global cloud database so all users can benefit from it!
