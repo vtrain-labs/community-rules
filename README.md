@@ -1,46 +1,28 @@
-# 🌐 V-Train Community Rules (雲端規則庫)
+# 🌐 V-Train 雲端規則庫 (Community Rules)
 
-Welcome to the official community-driven rule database for the **V-Train Extension**. 
-This repository hosts the auto-syncing configuration rules that allow V-Train to adapt to various video platforms worldwide seamlessly.
+歡迎來到 **V-Train 擴充功能** 的官方社群規則庫！
+這裡聚集了全世界老司機們互相分享的網站訓練規則。透過這個雲端庫，V-Train 可以自動適應全球各大影音網站。
 
-## 🚀 How it Works (運作方式)
+## 💡 對於「普通用戶」：你只需要放輕鬆
+只要某個網站已經被加入這個規則庫，你進入該網站時，V-Train 就會自動載入規則。
+你**不需要手動輸入任何代碼**，只要點擊面板上的「授權並啟用」，進度條就會奇蹟般地出現！
 
-Starting from V-Train v1.0.8, the extension automatically syncs with this repository in the background. 
-If a site is supported in `rules.json`, you **do not need to train it manually**. Just click **"Authorize & Enable"** on the site, and V-Train will automatically start tracking!
+如果遇到 V-Train 無法支援的網站：
+👉 **[點我發文求救 (Request a Site)](https://github.com/vtrain-labs/community-rules/issues/new/choose)**
+發文後，社群裡的各路大神就會來幫你寫規則！
 
-*(Note: Sensitive domains are stored as Base64 encoded strings to protect user privacy and comply with store policies.)*
+## 🚀 對於「老司機」：如何幫助別人？
+如果你看到有人求救，而你剛好會用 V-Train 的「自行訓練」功能（右鍵框選），你可以這樣做：
+1. 去那個網站完成訓練。
+2. 打開 V-Train 的規則管理面板，點擊橘色的 **📋 序號複製 (Share)**。
+3. 回到大神的求救貼文底下，把那串 `SYNC-Z...` 開頭的代碼回覆給他。
+4. 或者，👉 **[點我主動分享新規則 (Share a Rule)](https://github.com/vtrain-labs/community-rules/issues/new/choose)** 造福全人類。
 
-## 🤝 How to Contribute (如何貢獻規則)
-
-If you've encountered a site that V-Train doesn't support natively, you can train it yourself using the Visual Capture Tool. Once successful, you can share it with the world!
-
-1. Open your V-Train Dashboard and go to **Rule Management (規則管理)**.
-2. Find the rule you just trained, and click the orange **📋 Share (序號複製)** button.
-3. Go to the [Issues](../../issues) tab of this repository.
-4. Click **New Issue**, select the Rule Submission template, and paste your `SYNC-Z...` code.
-
-Our maintainers will review your code, convert the domain to Base64 (if necessary), and merge it into `rules.json`. Within 24 hours, all V-Train users globally will receive your update!
+## 🛡️ 安全與審核機制
+請放心，GitHub 這裡只是一個「許願池」跟「代碼交流區」。
+大家分享的 `SYNC-Z` 代碼**沒有任何權限**直接影響全球用戶。
+管理員 (Admin) 會每天巡視論壇，把大家測試成功的好用代碼，加密轉換後寫入受保護的 `rules.json`。
+**只有管理員更新了 `rules.json`，全世界的用戶才會在 24 小時內自動獲得升級。** 絕對安全，無痛更新！
 
 ---
-
-### For Maintainers (維護者指南)
-
-When adding a new rule to `rules.json`, follow this format:
-
-```json
-{
-  "BASE64_ENCODED_DOMAIN": [
-    {
-      "hosts": ["BASE64_ENCODED_DOMAIN"],
-      "pRule": { ... },
-      "s": "div.video-wrapper",
-      "tRule": { ... },
-      "imgSelector": "video" 
-    },
-    null, null, null
-  ]
-}
-```
-
-* **Base64 Encoding**: All adult or sensitive domains MUST be Base64 encoded (both the object key and inside the `hosts` array) to bypass automated text scanners.
-* **imgSelector**: Optional. Used to specify the CSS selector for extracting high-quality thumbnails when bookmarking (e.g., `"video"` grabs the video tag's `poster` attribute).
+*(For Admins: `rules.json` update protocols and Base64 encryption standards are maintained internally.)*
