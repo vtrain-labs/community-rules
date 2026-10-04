@@ -184,10 +184,10 @@
     null,
     null
   ],
-  "d3d3LmVwb3JuZXIuY29t": [
+  "ZXBvcm5lci5jb20=": [
     {
       "hosts": [
-        "d3d3LmVwb3JuZXIuY29t"
+        "ZXBvcm5lci5jb20="
       ],
       "pRule": {
         "idx": -2,
@@ -207,10 +207,10 @@
     null,
     null
   ],
-  "d3d3Lml4eHguY29t": [
+  "aXh4eC5jb20=": [
     {
       "hosts": [
-        "d3d3Lml4eHguY29t"
+        "aXh4eC5jb20="
       ],
       "pRule": {
         "guard": {
@@ -330,10 +330,10 @@
     null,
     null
   ],
-  "MThhdi5tbS1jZy5jb20=": [
+  "bW0tY2cuY29t": [
     {
       "hosts": [
-        "MThhdi5tbS1jZy5jb20="
+        "bW0tY2cuY29t"
       ],
       "pRule": {
         "guard": {
@@ -386,10 +386,10 @@
     null,
     null
   ],
-  "Y24ucG9ybmh1Yi5jb20=": [
+  "cG9ybmh1Yi5jb20=": [
     {
       "hosts": [
-        "Y24ucG9ybmh1Yi5jb20="
+        "cG9ybmh1Yi5jb20="
       ],
       "pRule": {
         "key": "viewkey",
@@ -405,10 +405,10 @@
     null,
     null
   ],
-  "ZGUucmVkdHViZS5jb20=": [
+  "cmVkdHViZS5jb20=": [
     {
       "hosts": [
-        "ZGUucmVkdHViZS5jb20="
+        "cmVkdHViZS5jb20="
       ],
       "pRule": {
         "idx": -1,
@@ -526,10 +526,10 @@
     null,
     null
   ],
-  "d3d3LnhueHguY29t": [
+  "eG54eC5jb20=": [
     {
       "hosts": [
-        "d3d3LnhueHguY29t"
+        "eG54eC5jb20="
       ],
       "pRule": {
         "idx": -2,
@@ -551,10 +551,10 @@
     null,
     null
   ],
-  "d3d3Lnh2aWRlb3MuY29t": [
+  "eHZpZGVvcy5jb20=": [
     {
       "hosts": [
-        "d3d3Lnh2aWRlb3MuY29t"
+        "eHZpZGVvcy5jb20="
       ],
       "pRule": {
         "idx": -2,
@@ -576,10 +576,10 @@
     null,
     null
   ],
-  "d3d3LnlvdXBvcm4uY29t": [
+  "eW91cG9ybi5jb20=": [
     {
       "hosts": [
-        "d3d3LnlvdXBvcm4uY29t"
+        "eW91cG9ybi5jb20="
       ],
       "pRule": {
         "idx": -2,
@@ -594,58 +594,6 @@
       }
     },
     null,
-    null,
-    null
-  ],
-  "www.youtube.com": [
-    {
-      "hosts": [
-        "www.youtube.com"
-      ],
-      "pRule": {
-        "guard": {
-          "isPositional": true
-        },
-        "key": "v",
-        "type": "q"
-      },
-      "s": "div.ytThumbnailViewModelImage",
-      "tRule": {
-        "guard": {
-          "isPositional": true
-        },
-        "key": "v",
-        "targetAttr": "href",
-        "type": "q",
-        "upLevel": 2
-      }
-    },
-    {
-      "hosts": [
-        "www.youtube.com"
-      ],
-      "pRule": {
-        "guard": {
-          "maxLen": 150,
-          "minLen": 8,
-          "regex": "^[a-zA-Z0-9_-]+$"
-        },
-        "key": "v",
-        "type": "q"
-      },
-      "s": "ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope",
-      "tRule": {
-        "guard": {
-          "maxLen": 150,
-          "minLen": 8,
-          "regex": "^[a-zA-Z0-9_-]+$"
-        },
-        "key": "v",
-        "targetAttr": "href",
-        "type": "q",
-        "upLevel": 3
-      }
-    },
     null,
     null
   ],
@@ -675,6 +623,58 @@
     {
       "hosts": [
         "accounts.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 3
+      }
+    },
+    null,
+    null
+  ],
+  "www.youtube.com": [
+    {
+      "hosts": [
+        "www.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "div.ytThumbnailViewModelImage",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 2
+      }
+    },
+    {
+      "hosts": [
+        "www.youtube.com"
       ],
       "pRule": {
         "guard": {
