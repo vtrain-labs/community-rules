@@ -720,5 +720,61 @@
     null,
     null,
     null
+  ],
+  "d3d3LnBvcm50cmV4LmNvbQ==": [
+    {
+      "hosts": [
+        "d3d3LnBvcm50cmV4LmNvbQ=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -2,
+        "type": "p"
+      },
+      "s": "span.thumb",
+      "tRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -2,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 2
+      }
+    },
+    {
+      "hosts": [
+        "d3d3LnBvcm50cmV4LmNvbQ=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -2,
+        "type": "p"
+      },
+      "s": "a.thumb.rotator-screen",
+      "tRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -2,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null
   ]
 }
