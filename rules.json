@@ -392,13 +392,21 @@
         "cG9ybmh1Yi5jb20="
       ],
       "pRule": {
+        "guard": {
+          "isPositional": true
+        },
         "key": "viewkey",
         "type": "q"
       },
-      "s": "a.videoPreviewBg.linkVideoThumb",
+      "s": "a.videoPreviewBg.latestThumb",
       "tRule": {
+        "guard": {
+          "isPositional": true
+        },
         "key": "viewkey",
-        "type": "q"
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 0
       }
     },
     null,
