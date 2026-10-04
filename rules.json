@@ -592,15 +592,25 @@
         "d3d3LnlvdXBvcm4uY29t"
       ],
       "pRule": {
-        "idx": -2,
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "watch",
+          "segCount": 2
+        },
+        "idx": -1,
         "type": "p"
       },
-      "s": "a.tm_video_link.video-box-image",
+      "s": "div.thumb-image-container.js_thumb-img-video",
       "tRule": {
-        "idx": -2,
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "watch",
+          "segCount": 2
+        },
+        "idx": -1,
         "targetAttr": "href",
         "type": "p",
-        "upLevel": 0
+        "upLevel": 1
       }
     },
     null,
