@@ -660,5 +660,36 @@
     },
     null,
     null
+  ],
+  "c3h5cHJuLmNvbQ==": [
+    {
+      "hosts": [
+        "c3h5cHJuLmNvbQ=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "post",
+          "segCount": 2
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.post_vid_thumb",
+      "tRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "post",
+          "segCount": 2
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 2
+      }
+    },
+    null,
+    null,
+    null
   ]
 }
