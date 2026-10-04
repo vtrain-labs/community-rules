@@ -1,8 +1,8 @@
 {
-  "YXZqb3kubWU=": [
+  "YXZqb3k=": [
     {
       "hosts": [
-        "YXZqb3kubWU="
+        "YXZqb3k="
       ],
       "pRule": {
         "guard": {
@@ -28,10 +28,10 @@
     null,
     null
   ],
-  "YXZwbGUudHY=": [
+  "YXZwbGU=": [
     {
       "hosts": [
-        "YXZwbGUudHY="
+        "YXZwbGU="
       ],
       "pRule": {
         "guard": {
@@ -59,10 +59,10 @@
     null,
     null
   ],
-  "YXZ0b2RheS5pbw==": [
+  "YXZ0b2RheQ==": [
     {
       "hosts": [
-        "YXZ0b2RheS5pbw=="
+        "YXZ0b2RheQ=="
       ],
       "pRule": {
         "guard": {
@@ -88,7 +88,7 @@
     },
     {
       "hosts": [
-        "YXZ0b2RheS5pbw=="
+        "YXZ0b2RheQ=="
       ],
       "pRule": {
         "guard": {
@@ -115,10 +115,10 @@
     null,
     null
   ],
-  "YmVlZy5jb20=": [
+  "YmVlZw==": [
     {
       "hosts": [
-        "YmVlZy5jb20="
+        "YmVlZw=="
       ],
       "pRule": {
         "idx": -1,
@@ -184,10 +184,10 @@
     null,
     null
   ],
-  "ZXBvcm5lci5jb20=": [
+  "ZXBvcm5lcg==": [
     {
       "hosts": [
-        "ZXBvcm5lci5jb20="
+        "ZXBvcm5lcg=="
       ],
       "pRule": {
         "idx": -2,
@@ -207,10 +207,10 @@
     null,
     null
   ],
-  "aXh4eC5jb20=": [
+  "aXh4eA==": [
     {
       "hosts": [
-        "aXh4eC5jb20="
+        "aXh4eA=="
       ],
       "pRule": {
         "guard": {
@@ -236,10 +236,10 @@
     null,
     null
   ],
-  "amFibGUudHY=": [
+  "amFibGU=": [
     {
       "hosts": [
-        "amFibGUudHY="
+        "amFibGU="
       ],
       "pRule": {
         "idx": -1,
@@ -257,10 +257,10 @@
     null,
     null
   ],
-  "amF2LnNi": [
+  "amF2": [
     {
       "hosts": [
-        "amF2LnNi"
+        "amF2"
       ],
       "pRule": {
         "guard": {
@@ -288,10 +288,10 @@
     null,
     null
   ],
-  "bWlzc2F2LmFp": [
+  "bWlzc2F2": [
     {
       "hosts": [
-        "bWlzc2F2LmFp"
+        "bWlzc2F2"
       ],
       "pRule": {
         "idx": -1,
@@ -309,31 +309,10 @@
     null,
     null
   ],
-  "bWlzc2F2LmxpdmU=": [
+  "bW0tY2c=": [
     {
       "hosts": [
-        "bWlzc2F2LmxpdmU="
-      ],
-      "pRule": {
-        "idx": -1,
-        "type": "p"
-      },
-      "s": "div.aspect-w-16.aspect-h-9 > a",
-      "tRule": {
-        "idx": -1,
-        "targetAttr": "href",
-        "type": "p",
-        "upLevel": 0
-      }
-    },
-    null,
-    null,
-    null
-  ],
-  "bW0tY2cuY29t": [
-    {
-      "hosts": [
-        "bW0tY2cuY29t"
+        "bW0tY2c="
       ],
       "pRule": {
         "guard": {
@@ -386,10 +365,10 @@
     null,
     null
   ],
-  "cG9ybmh1Yi5jb20=": [
+  "cG9ybmh1Yg==": [
     {
       "hosts": [
-        "cG9ybmh1Yi5jb20="
+        "cG9ybmh1Yg=="
       ],
       "pRule": {
         "guard": {
@@ -413,10 +392,10 @@
     null,
     null
   ],
-  "cmVkdHViZS5jb20=": [
+  "cmVkdHViZQ==": [
     {
       "hosts": [
-        "cmVkdHViZS5jb20="
+        "cmVkdHViZQ=="
       ],
       "pRule": {
         "idx": -1,
@@ -436,10 +415,10 @@
     null,
     null
   ],
-  "c3BhbmtiYW5nLmNvbQ==": [
+  "c3BhbmtiYW5n": [
     {
       "hosts": [
-        "c3BhbmtiYW5nLmNvbQ=="
+        "c3BhbmtiYW5n"
       ],
       "pRule": {
         "idx": -3,
@@ -455,10 +434,10 @@
     null,
     null
   ],
-  "c3VwamF2LmNvbQ==": [
+  "c3VwamF2": [
     {
       "hosts": [
-        "c3VwamF2LmNvbQ=="
+        "c3VwamF2"
       ],
       "pRule": {
         "guard": {
@@ -482,10 +461,10 @@
     null,
     null
   ],
-  "dGt0dWJlLmNvbQ==": [
+  "dGt0dWJl": [
     {
       "hosts": [
-        "dGt0dWJlLmNvbQ=="
+        "dGt0dWJl"
       ],
       "pRule": {
         "guard": {
@@ -509,10 +488,10 @@
     null,
     null
   ],
-  "eGhhbXN0ZXIuY29t": [
+  "eGhhbXN0ZXI=": [
     {
       "hosts": [
-        "eGhhbXN0ZXIuY29t"
+        "eGhhbXN0ZXI="
       ],
       "pRule": {
         "idx": -1,
@@ -534,10 +513,10 @@
     null,
     null
   ],
-  "eG54eC5jb20=": [
+  "eG54eA==": [
     {
       "hosts": [
-        "eG54eC5jb20="
+        "eG54eA=="
       ],
       "pRule": {
         "idx": -2,
@@ -559,10 +538,10 @@
     null,
     null
   ],
-  "eHZpZGVvcy5jb20=": [
+  "eHZpZGVvcw==": [
     {
       "hosts": [
-        "eHZpZGVvcy5jb20="
+        "eHZpZGVvcw=="
       ],
       "pRule": {
         "idx": -2,
@@ -584,10 +563,10 @@
     null,
     null
   ],
-  "eW91cG9ybi5jb20=": [
+  "eW91cG9ybg==": [
     {
       "hosts": [
-        "eW91cG9ybi5jb20="
+        "eW91cG9ybg=="
       ],
       "pRule": {
         "idx": -2,
@@ -602,58 +581,6 @@
       }
     },
     null,
-    null,
-    null
-  ],
-  "accounts.youtube.com": [
-    {
-      "hosts": [
-        "accounts.youtube.com"
-      ],
-      "pRule": {
-        "guard": {
-          "isPositional": true
-        },
-        "key": "v",
-        "type": "q"
-      },
-      "s": "div.ytThumbnailViewModelImage",
-      "tRule": {
-        "guard": {
-          "isPositional": true
-        },
-        "key": "v",
-        "targetAttr": "href",
-        "type": "q",
-        "upLevel": 2
-      }
-    },
-    {
-      "hosts": [
-        "accounts.youtube.com"
-      ],
-      "pRule": {
-        "guard": {
-          "maxLen": 150,
-          "minLen": 8,
-          "regex": "^[a-zA-Z0-9_-]+$"
-        },
-        "key": "v",
-        "type": "q"
-      },
-      "s": "ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope",
-      "tRule": {
-        "guard": {
-          "maxLen": 150,
-          "minLen": 8,
-          "regex": "^[a-zA-Z0-9_-]+$"
-        },
-        "key": "v",
-        "targetAttr": "href",
-        "type": "q",
-        "upLevel": 3
-      }
-    },
     null,
     null
   ],
@@ -683,6 +610,58 @@
     {
       "hosts": [
         "www.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 3
+      }
+    },
+    null,
+    null
+  ],
+  "accounts.youtube.com": [
+    {
+      "hosts": [
+        "accounts.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "div.ytThumbnailViewModelImage",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 2
+      }
+    },
+    {
+      "hosts": [
+        "accounts.youtube.com"
       ],
       "pRule": {
         "guard": {
