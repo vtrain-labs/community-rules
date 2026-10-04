@@ -691,5 +691,34 @@
     null,
     null,
     null
+  ],
+  "eG1vdmllc2ZvcnlvdS5jb20=": [
+    {
+      "hosts": [
+        "eG1vdmllc2ZvcnlvdS5jb20="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true,
+          "segCount": 1
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.aspect-video.rounded-xl",
+      "tRule": {
+        "guard": {
+          "isPositional": true,
+          "segCount": 1
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 1
+      }
+    },
+    null,
+    null,
+    null
   ]
 }
