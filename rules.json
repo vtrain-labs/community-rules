@@ -1,1 +1,704 @@
-{"YXZqb3kubWU=":[{"hosts":["YXZqb3kubWU="],"pRule":{"guard":{"isPositional":true},"idx":-2,"type":"p"},"s":"div.thumb-overlay","tRule":{"guard":{"isPositional":true},"idx":-1,"sep":"_","sepIdx":-1,"targetAttr":"id","type":"p","upLevel":0}},null,null,null],"YXZwbGUudHY=":[{"hosts":["YXZwbGUudHY="],"pRule":{"guard":{"maxLen":150,"minLen":12,"regex":"^[a-zA-Z0-9]+$"},"idx":-1,"type":"p"},"s":"div.aspect-\\[177\\/100\\].rounded-md","tRule":{"guard":{"maxLen":150,"minLen":12,"regex":"^[a-zA-Z0-9]+$"},"idx":-1,"targetAttr":"href","type":"p","upLevel":1}},null,null,null],"YXZ0b2RheS5pbw==":[{"hosts":["YXZ0b2RheS5pbw=="],"pRule":{"guard":{"isPositional":true,"kwPrefix":"video","segCount":3},"idx":-1,"type":"p"},"s":"div.video-card.real-card > a","tRule":{"guard":{"isPositional":true,"kwPrefix":"video","segCount":3},"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},{"hosts":["YXZ0b2RheS5pbw=="],"pRule":{"guard":{"isPositional":true,"kwPrefix":"video","segCount":3},"idx":-1,"type":"p"},"s":"div.video-card > a","tRule":{"guard":{"isPositional":true,"kwPrefix":"v","segCount":2},"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null],"YmVlZy5jb20=":[{"hosts":["YmVlZy5jb20="],"pRule":{"idx":-1,"sep":"-","sepIdx":-1,"type":"p"},"s":"div.UnitFrame__media.tw-relative","tRule":{"idx":-1,"sep":"-","sepIdx":-1,"type":"p"}},null,null,null],"www.bilibili.com":[{"hosts":["www.bilibili.com"],"pRule":{"guard":{"minLen":7},"idx":-1,"type":"p"},"s":"div.bili-video-card__image--wrap","tRule":{"guard":{"minLen":7},"idx":-1,"targetAttr":"href","type":"p","upLevel":2}},{"hosts":["www.bilibili.com"],"pRule":{"guard":{"minLen":7},"idx":-1,"type":"p"},"s":"div.bili-video-card__image--wrap","tRule":{"guard":{"minLen":7},"idx":-1,"type":"p"}},null,null],"d3d3LmVwb3JuZXIuY29t":[{"hosts":["d3d3LmVwb3JuZXIuY29t"],"pRule":{"idx":-2,"sep":"-","sepIdx":-1,"type":"p"},"s":"div.mbcontent","tRule":{"idx":-2,"sep":"-","sepIdx":-1,"type":"p"}},null,null,null],"d3d3Lml4eHguY29t":[{"hosts":["d3d3Lml4eHguY29t"],"pRule":{"guard":{"maxLen":150,"minLen":5,"regex":"^[a-zA-Z0-9]+$"},"key":"trx","type":"q"},"s":"a.item-link.rate-link","tRule":{"guard":{"maxLen":150,"minLen":5,"regex":"^[a-zA-Z0-9]+$"},"key":"trx","type":"q"}},null,null,null],"amFibGUudHY=":[{"hosts":["amFibGUudHY="],"pRule":{"idx":-1,"type":"p"},"s":"div.cover-md.img-box > a","tRule":{"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"amF2LnNi":[{"hosts":["amF2LnNi"],"pRule":{"guard":{"maxLen":150,"minLen":15,"regex":"^[a-zA-Z0-9\\-\\.]+$"},"idx":-1,"type":"p"},"s":"div.aspect-w-16.aspect-h-9 > a","tRule":{"guard":{"maxLen":150,"minLen":15,"regex":"^[a-zA-Z0-9\\-\\.]+$"},"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"bWlzc2F2LmFp":[{"hosts":["bWlzc2F2LmFp"],"pRule":{"idx":-1,"type":"p"},"s":"div.aspect-w-16.aspect-h-9 > a","tRule":{"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"bWlzc2F2LmxpdmU=":[{"hosts":["bWlzc2F2LmxpdmU="],"pRule":{"idx":-1,"type":"p"},"s":"div.aspect-w-16.aspect-h-9 > a","tRule":{"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"MThhdi5tbS1jZy5jb20=":[{"hosts":["MThhdi5tbS1jZy5jb20="],"pRule":{"guard":{"isPositional":true},"idx":-1,"type":"p"},"s":"figure.video-preview.thumb > a","tRule":{"guard":{"isPositional":true},"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"odysee.com":[{"hosts":["odysee.com"],"pRule":{"guard":{"maxLen":150,"minLen":5,"regex":null},"idx":-1,"type":"p"},"s":"div.media__thumb.media__thumb--has-preview","tRule":{"guard":{"maxLen":150,"minLen":5,"regex":null},"idx":-1,"type":"p"}},null,null,null],"Y24ucG9ybmh1Yi5jb20=":[{"hosts":["Y24ucG9ybmh1Yi5jb20="],"pRule":{"key":"viewkey","type":"q"},"s":"a.videoPreviewBg.linkVideoThumb","tRule":{"key":"viewkey","type":"q"}},null,null,null],"ZGUucmVkdHViZS5jb20=":[{"hosts":["ZGUucmVkdHViZS5jb20="],"pRule":{"idx":-1,"type":"p"},"s":"span.video_thumb_wrap","tRule":{"idx":-1,"sep":"_","sepIdx":-1,"targetAttr":"id","type":"p","upLevel":2}},null,null,null],"c3BhbmtiYW5nLmNvbQ==":[{"hosts":["c3BhbmtiYW5nLmNvbQ=="],"pRule":{"idx":-3,"type":"p"},"s":"a.bg-neutral-900.relative","tRule":{"idx":-3,"type":"p"}},null,null,null],"c3VwamF2LmNvbQ==":[{"hosts":["c3VwamF2LmNvbQ=="],"pRule":{"guard":{"isPositional":true},"idx":-1,"type":"p"},"s":"a.img","tRule":{"guard":{"isPositional":true},"idx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"dGt0dWJlLmNvbQ==":[{"hosts":["dGt0dWJlLmNvbQ=="],"pRule":{"guard":{"isPositional":true},"idx":-1,"type":"p"},"s":"div.img","tRule":{"guard":{"isPositional":true},"idx":-1,"targetAttr":"href","type":"p","upLevel":1}},null,null,null],"eGhhbXN0ZXIuY29t":[{"hosts":["eGhhbXN0ZXIuY29t"],"pRule":{"idx":-1,"sep":"-","sepIdx":-1,"type":"p"},"s":"a.video-thumb__image-container.thumb-image-container","tRule":{"idx":-1,"sep":"-","sepIdx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"d3d3LnhueHguY29t":[{"hosts":["d3d3LnhueHguY29t"],"pRule":{"idx":-2,"sep":"-","sepIdx":-1,"type":"p"},"s":"div.thumb > a","tRule":{"idx":-2,"sep":"-","sepIdx":-1,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"d3d3Lnh2aWRlb3MuY29t":[{"hosts":["d3d3Lnh2aWRlb3MuY29t"],"pRule":{"idx":-2,"sep":".","sepIdx":-1,"type":"p"},"s":"div.thumb > a","tRule":{"idx":-1,"sep":"_","sepIdx":-1,"targetAttr":"id","type":"p","upLevel":3}},null,null,null],"d3d3LnlvdXBvcm4uY29t":[{"hosts":["d3d3LnlvdXBvcm4uY29t"],"pRule":{"idx":-2,"type":"p"},"s":"a.tm_video_link.video-box-image","tRule":{"idx":-2,"targetAttr":"href","type":"p","upLevel":0}},null,null,null],"www.youtube.com":[{"hosts":["www.youtube.com"],"pRule":{"guard":{"isPositional":true},"key":"v","type":"q"},"s":"div.ytThumbnailViewModelImage","tRule":{"guard":{"isPositional":true},"key":"v","targetAttr":"href","type":"q","upLevel":2}},{"hosts":["www.youtube.com"],"pRule":{"guard":{"maxLen":150,"minLen":8,"regex":"^[a-zA-Z0-9_-]+$"},"key":"v","type":"q"},"s":"ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope","tRule":{"guard":{"maxLen":150,"minLen":8,"regex":"^[a-zA-Z0-9_-]+$"},"key":"v","targetAttr":"href","type":"q","upLevel":3}},null,null],"accounts.youtube.com":[{"hosts":["accounts.youtube.com"],"pRule":{"guard":{"isPositional":true},"key":"v","type":"q"},"s":"div.ytThumbnailViewModelImage","tRule":{"guard":{"isPositional":true},"key":"v","targetAttr":"href","type":"q","upLevel":2}},{"hosts":["accounts.youtube.com"],"pRule":{"guard":{"maxLen":150,"minLen":8,"regex":"^[a-zA-Z0-9_-]+$"},"key":"v","type":"q"},"s":"ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope","tRule":{"guard":{"maxLen":150,"minLen":8,"regex":"^[a-zA-Z0-9_-]+$"},"key":"v","targetAttr":"href","type":"q","upLevel":3}},null,null]}
+{
+  "YXZqb3kubWU=": [
+    {
+      "hosts": [
+        "YXZqb3kubWU="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -2,
+        "type": "p"
+      },
+      "s": "div.thumb-overlay",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "sep": "_",
+        "sepIdx": -1,
+        "targetAttr": "id",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "YXZwbGUudHY=": [
+    {
+      "hosts": [
+        "YXZwbGUudHY="
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 12,
+          "regex": "^[a-zA-Z0-9]+$"
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.aspect-\\[177\\/100\\].rounded-md",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 12,
+          "regex": "^[a-zA-Z0-9]+$"
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 1
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "YXZ0b2RheS5pbw==": [
+    {
+      "hosts": [
+        "YXZ0b2RheS5pbw=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.video-card.real-card > a",
+      "tRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    {
+      "hosts": [
+        "YXZ0b2RheS5pbw=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "video",
+          "segCount": 3
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.video-card > a",
+      "tRule": {
+        "guard": {
+          "isPositional": true,
+          "kwPrefix": "v",
+          "segCount": 2
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null
+  ],
+  "YmVlZy5jb20=": [
+    {
+      "hosts": [
+        "YmVlZy5jb20="
+      ],
+      "pRule": {
+        "idx": -1,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      },
+      "s": "div.UnitFrame__media.tw-relative",
+      "tRule": {
+        "idx": -1,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "www.bilibili.com": [
+    {
+      "hosts": [
+        "www.bilibili.com"
+      ],
+      "pRule": {
+        "guard": {
+          "minLen": 7
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.bili-video-card__image--wrap",
+      "tRule": {
+        "guard": {
+          "minLen": 7
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 2
+      }
+    },
+    {
+      "hosts": [
+        "www.bilibili.com"
+      ],
+      "pRule": {
+        "guard": {
+          "minLen": 7
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.bili-video-card__image--wrap",
+      "tRule": {
+        "guard": {
+          "minLen": 7
+        },
+        "idx": -1,
+        "type": "p"
+      }
+    },
+    null,
+    null
+  ],
+  "d3d3LmVwb3JuZXIuY29t": [
+    {
+      "hosts": [
+        "d3d3LmVwb3JuZXIuY29t"
+      ],
+      "pRule": {
+        "idx": -2,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      },
+      "s": "div.mbcontent",
+      "tRule": {
+        "idx": -2,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "d3d3Lml4eHguY29t": [
+    {
+      "hosts": [
+        "d3d3Lml4eHguY29t"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 5,
+          "regex": "^[a-zA-Z0-9]+$"
+        },
+        "key": "trx",
+        "type": "q"
+      },
+      "s": "a.item-link.rate-link",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 5,
+          "regex": "^[a-zA-Z0-9]+$"
+        },
+        "key": "trx",
+        "type": "q"
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "amFibGUudHY=": [
+    {
+      "hosts": [
+        "amFibGUudHY="
+      ],
+      "pRule": {
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.cover-md.img-box > a",
+      "tRule": {
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "amF2LnNi": [
+    {
+      "hosts": [
+        "amF2LnNi"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 15,
+          "regex": "^[a-zA-Z0-9\\-\\.]+$"
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.aspect-w-16.aspect-h-9 > a",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 15,
+          "regex": "^[a-zA-Z0-9\\-\\.]+$"
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "bWlzc2F2LmFp": [
+    {
+      "hosts": [
+        "bWlzc2F2LmFp"
+      ],
+      "pRule": {
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.aspect-w-16.aspect-h-9 > a",
+      "tRule": {
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "bWlzc2F2LmxpdmU=": [
+    {
+      "hosts": [
+        "bWlzc2F2LmxpdmU="
+      ],
+      "pRule": {
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.aspect-w-16.aspect-h-9 > a",
+      "tRule": {
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "MThhdi5tbS1jZy5jb20=": [
+    {
+      "hosts": [
+        "MThhdi5tbS1jZy5jb20="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "figure.video-preview.thumb > a",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "odysee.com": [
+    {
+      "hosts": [
+        "odysee.com"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 5,
+          "regex": null
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.media__thumb.media__thumb--has-preview",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 5,
+          "regex": null
+        },
+        "idx": -1,
+        "type": "p"
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "Y24ucG9ybmh1Yi5jb20=": [
+    {
+      "hosts": [
+        "Y24ucG9ybmh1Yi5jb20="
+      ],
+      "pRule": {
+        "key": "viewkey",
+        "type": "q"
+      },
+      "s": "a.videoPreviewBg.linkVideoThumb",
+      "tRule": {
+        "key": "viewkey",
+        "type": "q"
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "ZGUucmVkdHViZS5jb20=": [
+    {
+      "hosts": [
+        "ZGUucmVkdHViZS5jb20="
+      ],
+      "pRule": {
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "span.video_thumb_wrap",
+      "tRule": {
+        "idx": -1,
+        "sep": "_",
+        "sepIdx": -1,
+        "targetAttr": "id",
+        "type": "p",
+        "upLevel": 2
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "c3BhbmtiYW5nLmNvbQ==": [
+    {
+      "hosts": [
+        "c3BhbmtiYW5nLmNvbQ=="
+      ],
+      "pRule": {
+        "idx": -3,
+        "type": "p"
+      },
+      "s": "a.bg-neutral-900.relative",
+      "tRule": {
+        "idx": -3,
+        "type": "p"
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "c3VwamF2LmNvbQ==": [
+    {
+      "hosts": [
+        "c3VwamF2LmNvbQ=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "a.img",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "dGt0dWJlLmNvbQ==": [
+    {
+      "hosts": [
+        "dGt0dWJlLmNvbQ=="
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "div.img",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 1
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "eGhhbXN0ZXIuY29t": [
+    {
+      "hosts": [
+        "eGhhbXN0ZXIuY29t"
+      ],
+      "pRule": {
+        "idx": -1,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      },
+      "s": "a.video-thumb__image-container.thumb-image-container",
+      "tRule": {
+        "idx": -1,
+        "sep": "-",
+        "sepIdx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "d3d3LnhueHguY29t": [
+    {
+      "hosts": [
+        "d3d3LnhueHguY29t"
+      ],
+      "pRule": {
+        "idx": -2,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      },
+      "s": "div.thumb > a",
+      "tRule": {
+        "idx": -2,
+        "sep": "-",
+        "sepIdx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "d3d3Lnh2aWRlb3MuY29t": [
+    {
+      "hosts": [
+        "d3d3Lnh2aWRlb3MuY29t"
+      ],
+      "pRule": {
+        "idx": -2,
+        "sep": ".",
+        "sepIdx": -1,
+        "type": "p"
+      },
+      "s": "div.thumb > a",
+      "tRule": {
+        "idx": -1,
+        "sep": "_",
+        "sepIdx": -1,
+        "targetAttr": "id",
+        "type": "p",
+        "upLevel": 3
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "d3d3LnlvdXBvcm4uY29t": [
+    {
+      "hosts": [
+        "d3d3LnlvdXBvcm4uY29t"
+      ],
+      "pRule": {
+        "idx": -2,
+        "type": "p"
+      },
+      "s": "a.tm_video_link.video-box-image",
+      "tRule": {
+        "idx": -2,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    },
+    null,
+    null,
+    null
+  ],
+  "www.youtube.com": [
+    {
+      "hosts": [
+        "www.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "div.ytThumbnailViewModelImage",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 2
+      }
+    },
+    {
+      "hosts": [
+        "www.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 3
+      }
+    },
+    null,
+    null
+  ],
+  "accounts.youtube.com": [
+    {
+      "hosts": [
+        "accounts.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "div.ytThumbnailViewModelImage",
+      "tRule": {
+        "guard": {
+          "isPositional": true
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 2
+      }
+    },
+    {
+      "hosts": [
+        "accounts.youtube.com"
+      ],
+      "pRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "type": "q"
+      },
+      "s": "ytd-thumbnail.ytd-playlist-panel-video-renderer.style-scope",
+      "tRule": {
+        "guard": {
+          "maxLen": 150,
+          "minLen": 8,
+          "regex": "^[a-zA-Z0-9_-]+$"
+        },
+        "key": "v",
+        "targetAttr": "href",
+        "type": "q",
+        "upLevel": 3
+      }
+    },
+    null,
+    null
+  ]
+}
