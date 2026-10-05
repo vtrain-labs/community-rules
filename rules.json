@@ -828,10 +828,6 @@
         "d3d3LjNtb3ZzLmNvbQ=="
       ],
       "pRule": {
-        "guard": {
-          "kwPrefix": "videos",
-          "isPositional": true
-        },
         "idx": 1,
         "type": "p"
       },
