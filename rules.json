@@ -542,24 +542,19 @@
         "d3d3LnhueHguY29t"
       ],
       "pRule": {
-        "idx": -2,
+        "idx": 0,
         "sep": "-",
-        "sepIdx": -1,
+        "sepIdx": 1,
         "type": "p"
       },
-      "s": "div.thumb > a",
+      "s": "div.thumb",
       "tRule": {
-        "idx": -2,
+        "idx": 0,
         "sep": "-",
-        "sepIdx": -1,
-        "targetAttr": "href",
-        "type": "p",
-        "upLevel": 0
+        "sepIdx": 1,
+        "type": "p"
       }
-    },
-    null,
-    null,
-    null
+    }
   ],
   "eHZpZGVvcw==": [
     {
