@@ -803,5 +803,23 @@
         "upLevel": 0
       }
     }
+  ],
+  "cG9ybm9uZQ==": [
+    {
+      "hosts": [
+        "cG9ybm9uZS5jb20="
+      ],
+      "pRule": {
+        "idx": -1,
+        "type": "p"
+      },
+      "s": "a.videocard",
+      "tRule": {
+        "idx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    }
   ]
 }
