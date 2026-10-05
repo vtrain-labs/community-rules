@@ -821,5 +821,31 @@
         "upLevel": 0
       }
     }
+  ],
+  "M21vdnM=": [
+    {
+      "hosts": [
+        "d3d3LjNtb3ZzLmNvbQ=="
+      ],
+      "pRule": {
+        "guard": {
+          "kwPrefix": "videos",
+          "isPositional": true
+        },
+        "idx": 1,
+        "type": "p"
+      },
+      "s": "a.wrap_image",
+      "tRule": {
+        "guard": {
+          "kwPrefix": "videos",
+          "isPositional": true
+        },
+        "idx": 1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    }
   ]
 }
