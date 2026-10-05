@@ -781,5 +781,27 @@
     },
     null,
     null
+  ],
+  "eW91aml6eg==": [
+    {
+      "hosts": [
+        "d3d3LnlvdWppenouY29t"
+      ],
+      "pRule": {
+        "idx": -1,
+        "sep": "-",
+        "sepIdx": -1,
+        "type": "p"
+      },
+      "s": "a.frame.video",
+      "tRule": {
+        "idx": -1,
+        "sep": "-",
+        "sepIdx": -1,
+        "targetAttr": "href",
+        "type": "p",
+        "upLevel": 0
+      }
+    }
   ]
 }
